@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(
+    180deg,
+    #030612,
+    #272933 24.01%,
+    #33353e 52.01%,
+    #242731 75.01%,
+    #050814
+  );
+  height: 100lvh;
+}
