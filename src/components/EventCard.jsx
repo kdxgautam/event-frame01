@@ -2,7 +2,7 @@
 
 const EventCard = () => {
   return (
-    <div className="w-[90%] flex bg-[#131417] text-white p-10 rounded-[35px] my-[30px]">
+    <div className="w-[90%] flex bg-[#131417] text-white p-10 rounded-[35px] my-[30px] sm:max-md:flex-col">
         <img className="w-[300px]" src="/images/catto.png" alt="" />
         <div className="pl-[2.2rem] pr-[1.5rem]">
             <h1 className="text-[2rem]">Lorem asdlkfj akjsldf  alksdjf aslkdfj</h1>

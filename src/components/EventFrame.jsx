@@ -16,9 +16,9 @@ const EventFrame = () => {
         </div>
 
         <div className="w-1/2 items-center flex justify-center h-3/4 -translate-x-14">
-          <img className="relative top-[-200px] right-[-120px]" src="/images/vector.png" alt="" />
-          <img className="min-w-[310px]" src="/images/robot.png" alt="" />
-          <img className="relative top-[100px] right-[]" src="/images/vector2.png" alt="" />
+          <img className="relative top-[-200px] right-[-120px] max-w-full" src="/images/vector.png" alt="" />
+          <img className="max-w-full" src="/images/robot.png" alt="" />
+          <img className="max-w-full relative top-[100px] right-[]" src="/images/vector2.png" alt="" />
         </div>
         
       </div>
