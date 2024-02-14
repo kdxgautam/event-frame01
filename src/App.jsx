@@ -1,10 +1,12 @@
 import "./App.css";
-import EventFrame from "./components/EventFrame";
+import Login from "./components/Login";
+// import EventFrame from "./components/EventFrame";
 
 function App() {
   return (
     <>
-    <EventFrame />
+    {/* <EventFrame /> */}
+    <Login />
     </>
   );
 }
